@@ -1,4 +1,3 @@
-# Simulación de empresas
 def obtener_empresas():
     return [
         {"ruc": "1790012345001", "razon_social": "Comercio Global S.A.", "actividad_codigo": "A001"},

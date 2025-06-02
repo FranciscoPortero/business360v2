@@ -1,2 +1,2 @@
 # Business360
-Aplicación de análisis empresarial y económico integral en Ecuador.
+Aplicación extendida con análisis financiero, importaciones, macroeconomía, y contratación pública.
